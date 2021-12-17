@@ -87,7 +87,7 @@ int main(int argc, char **argv)
 		case 6: clock[62] = '|'; break;
 		case 7:
 		case 8: clock[61] = '/'; break;
-		case 9: clock[45] = clock[46] = '-'; break;
+		case 9: clock[46] = clock[47] = '-'; break;
 		case 10:
 		case 11: clock[33] = '\\'; break;
 	}
