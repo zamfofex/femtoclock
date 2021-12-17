@@ -6,7 +6,7 @@ int main(int argc, char **argv)
 	static char clock[] =
 		"=============\n" // offsets
 		"|    xii    |\n" // 14
-		"| xii   ii  |\n" // 28
+		"|  xi   ii  |\n" // 28
 		"|ix   o  iii|\n" // 42
 		"| vii   iv  |\n" // 56
 		"|    vi     |\n" // 70
